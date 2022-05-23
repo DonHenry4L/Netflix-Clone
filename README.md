@@ -80,3 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 6: react-youtube(TO ENABLE MOVIES TRAILER PLAY THE TRAILER THROUGH API CALL FROM YOUTUBE)
 # Tinder-Clone
 # Netflix-Clone
+# Netflix-Clone
