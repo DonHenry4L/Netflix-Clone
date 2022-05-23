@@ -78,3 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 5: movie-trailer(FOR PLAYING TRAILERS FROM YOUTUBE)
 5: react-router-dom(FOR ROUTING FROM THIS PAGE TO ANOTHER PAGE)
 6: react-youtube(TO ENABLE MOVIES TRAILER PLAY THE TRAILER THROUGH API CALL FROM YOUTUBE)
+# Tinder-Clone
+# Netflix-Clone
